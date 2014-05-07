@@ -1,6 +1,6 @@
 # Net Neutrality @ ML
 
-This doc manually mirrored as html at http://scottgwald.github.io/net-neutrality-etc/
+This doc maintaind as a [Google Doc](https://docs.google.com/document/d/1-bRdiBeKmby8RmRXZsjCOQqIbAKo4vXufcOydYFYzw8/edit) and manually mirrored as html at [http://scottgwald.github.io/net-neutrality-etc/](http://scottgwald.github.io/net-neutrality-etc/)
 
 ## TOC
 
@@ -17,7 +17,7 @@ This will be an ongoing Media Lab effort to maintain official opinions, link to 
 
 * Email list net-neutrality-etc@media
 * Working document: [Google Doc](https://docs.google.com/document/d/1-bRdiBeKmby8RmRXZsjCOQqIbAKo4vXufcOydYFYzw8/edit)
-* Webpage: http://scottgwald.github.io/net-neutrality-etc/
+* Webpage: [http://scottgwald.github.io/net-neutrality-etc/](http://scottgwald.github.io/net-neutrality-etc/)
 
 ## Goals
 
