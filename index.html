@@ -1,7 +1,15 @@
+<!DOCTYPE html>
 <html>
-<head>
-</head>
-<body>
-Hello World!
-</body>
+  <head>
+    <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+  </head>
+  <body>
+    <div id="main"></div>
+    <script src="lib/markdown.min.js"></script>
+    <script>
+      $.ajax({url:"index.md"}).done(function( rawMarkdown){
+        $("#main").html(markdown.toHTML(rawMarkdown));
+      })
+    </script>
+  </body>
 </html>
