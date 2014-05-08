@@ -1,6 +1,6 @@
 # Net Neutrality @ ML
 
-This doc maintaind as a [Google Doc](https://docs.google.com/document/d/1-bRdiBeKmby8RmRXZsjCOQqIbAKo4vXufcOydYFYzw8/edit) and manually mirrored as html at [http://scottgwald.github.io/net-neutrality-etc/](http://scottgwald.github.io/net-neutrality-etc/)
+This doc maintained as a [Google Doc](https://docs.google.com/document/d/1-bRdiBeKmby8RmRXZsjCOQqIbAKo4vXufcOydYFYzw8/edit) and manually mirrored as html at [http://scottgwald.github.io/net-neutrality-etc/](http://scottgwald.github.io/net-neutrality-etc/)
 
 ## TOC
 
