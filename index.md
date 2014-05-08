@@ -18,6 +18,7 @@ This doc maintained as a [Google Doc](https://docs.google.com/document/d/1-bRdiB
 This will be an ongoing Media Lab effort to maintain official opinions, link to resources, as well as foster projects relating to net neutrality and internet service.
 
 * Email list open-internet@media, subscribe by sending subject "subscribe" to open-internet-request@media.mit.edu
+* Subscribers can access mailing list archive at 
 * Working document: [Google Doc](https://docs.google.com/document/d/1-bRdiBeKmby8RmRXZsjCOQqIbAKo4vXufcOydYFYzw8/edit)
 * Webpage: [http://scottgwald.github.io/net-neutrality-etc/](http://scottgwald.github.io/net-neutrality-etc/)
 
@@ -42,7 +43,7 @@ This will be an ongoing Media Lab effort to maintain official opinions, link to 
 
 * [Susan Crawford, Media Lab Conversations Series. March 28, 2013](http://www.media.mit.edu/events/2013/03/28/media-lab-conversations-series-susan-crawford)
 
-* [The Atlantic, Cases for Rebooting the Network Neutrality Debate. May 6, 2014](http://www.theatlantic.com/technology/archive/2014/05/the-case-for-rebooting-the-network-neutrality-debate/361809/)
+* [The Atlantic, The Case for Rebooting the Network Neutrality Debate. May 6, 2014](http://www.theatlantic.com/technology/archive/2014/05/the-case-for-rebooting-the-network-neutrality-debate/361809/)
 
 * [MIT Technology Review, Talk of an Internet Fast Lane Is Already Hurting Some Startups. May 7, 2014](http://www.technologyreview.com/news/527006/talk-of-an-internet-fast-lane-is-already-hurting-some-startups/)
 
