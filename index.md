@@ -58,13 +58,13 @@ This will be an ongoing Media Lab effort to maintain official opinions, link to 
 
 - Create a Media Lab Guidebook to Net Neutrality and Related Issues.
 - Create a resource to debunk misconceptions / myths about net neutrality
-- Compile and publish a “Media Lab” vision of how we feel the internet should be (e.g. Mozilla Manifesto: http://www.mozilla.org/en-US/about/manifesto/ )
+- Compile and publish a “Media Lab” vision of how we feel the internet should be (e.g. [Mozilla Manifesto](http://www.mozilla.org/en-US/about/manifesto/))
 - Compile and publish a list of concrete actions that can be taken
 - Compile and publish a list of resources to learn more
 - Form a community of leaders around this debate in the ML context (the point here being the fact that ML is a community of makers.)
 - Create resources to assist the formation of municipal networks.
 - Push for legislation which requires Comcast to disclose network patterns in areas where they form a monopoly.
-- Add an explanation of how net neutrality relates to ML mission http://www.media.mit.edu/about/mission-history “Media Lab researchers design technologies for people to create a better future.”
+- Add an explanation of how net neutrality relates to [ML mission](http://www.media.mit.edu/about/mission-history) “Media Lab researchers design technologies for people to create a better future.”
 - Can we make a case that a lack of net neutrality would break the types of technologies we create?
 
 ## ML Statement on our stance on net neutrality
