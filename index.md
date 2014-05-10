@@ -2,7 +2,7 @@
 
 **This is a working document that does not (yet) represent the official opinion of the Media Lab or MIT.**
 
-This doc maintained as a [Google Doc](http://goo.gl/WML7Bg) and manually mirrored as html at [http://open-internet.media.mit.edu](http://open-internet.media.mit.edu/)
+This doc maintained as a [Google Doc](http://goo.gl/WML7Bg) and manually mirrored as html at [http://open-internet.media.mit.edu](http://open-internet.media.mit.edu/). Join the mailing list to get edit access.
 
 ## TOC
 
