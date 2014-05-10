@@ -3,7 +3,10 @@
 **This is a working document that does not (yet) represent the official
 opinion of the Media Lab or MIT.**
 
-Join the mailing list to get edit access.
+**Next meeting: Weds, May 14 6pm.**
+
+Subscribe to the mailing list to get edit access to this doc. To do so, send
+subject "subscribe" to open-internet-request@media.mit.edu.
 
 ## TOC
 
